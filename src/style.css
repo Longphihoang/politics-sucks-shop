@@ -1,0 +1,15 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.site-title-container {
+  text-align: center;
+}
+
+.site-title {
+  font-family: Garamond;
+  color: red;
+  border: 1px solid black;
+  display: block;
+}
